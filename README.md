@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prince_jaiswal_112) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamkasaudhan)  [![LeetCode](https://img.shields.io/badge/LeetCode-02569B?logo=leetcode&logoColor=white)](https://leetcode.com/shivam_kasaudhan/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230078D7.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shivamkasaudhan/practice/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prince_jaiswal_112) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princejaiswalvitb)  [![LeetCode](https://img.shields.io/badge/LeetCode-02569B?logo=leetcode&logoColor=white)](https://leetcode.com/PRInCEJaiSWaL9555/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230078D7.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/princejai8vfs/practice/)
 
 
 
